@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+h1{
+    background-color: rgb(21, 21, 92);
+    color:white;
+    text-align: center;
+}
+h2{
+    color: rgb(21, 21, 92);
+}
+th{
+    padding: 10px;
+    text-align: left;
+} 
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+}
+a:hover{
+    color: red;
+}
+table{
+    border-collapse: collapse;
+}
